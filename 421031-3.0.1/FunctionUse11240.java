@@ -1,0 +1,6 @@
+import org.apache.hadoop.fs.viewfs.NflyFSystem.MRNflyNode;
+public class FunctionUse11240 {
+public void funcUse() {
+MRNflyNode mrnflynode = new MRNflyNode();
+}
+}

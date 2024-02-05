@@ -1,0 +1,6 @@
+import org.apache.hadoop.io.compress.DefaultCodec;
+public class FunctionUse2167 {
+public void funcUse() {
+DefaultCodec defaultcodec = new DefaultCodec();
+}
+}
